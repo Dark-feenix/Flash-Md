@@ -1,10 +1,10 @@
- <h1 align="center"> FLASH-MD </h1>
-<p align="center"> FLASH-MD, A Simple WhatsApp user BOT, Created by France King.
+ <h1 align="center"> FEENIX-MD </h1>
+<p align="center"> FEENIX-MD, A Simple WhatsApp user BOT, Created by Dark Sasiya.
 </p>
 
 
 
-<img src="https://telegra.ph/file/3f985014b51b3cf335bfe.jpg" width="700" height="300"/>
+<img src="https://telegra.ph/file/5cddc2fe022bc72c925f1.jpg" width="700" height="300"/>
 
 
 
@@ -24,12 +24,12 @@ Contributions to Flash-Md are welcome! If you have ideas for new features, impro
 
 ## License
 
-The FLASH-MD is released under the [MIT License](https://opensource.org/licenses/MIT).
+The Feenix-MD is released under the [MIT License](https://opensource.org/licenses/MIT).
 
-Enjoy the diverse features of the Flash-Md  to enhance your conversations and make your WhatsApp experience more interesting!
+Enjoy the diverse features of the Feenix-Md  to enhance your conversations and make your WhatsApp experience more interesting!
 
 ## Developer:
 
 - [**Instagram**](https://instagram.com/france.king1)
-- [**WhatsApp**](https://wa.me/254757835036)
+- [**WhatsApp**](https://wa.me/94722807735)
 
