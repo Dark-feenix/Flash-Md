@@ -1,9 +1,9 @@
 {
-  "name":"FLASH-MD",
-  "description":"An easy and simple WhatsApp bot developed by France King",
+  "name":"FEENIX-MD",
+  "description":"An easy and simple WhatsApp bot developed by DARK-SASIYA",
   "keywords":["bot","node","baileys","whatsapp"],
-  "logo":"https://telegra.ph/file/dfccbf12397757c321ac4.jpg",
-  "repository":"https://github.com/franceking1/Flash-Md",
+  "logo":"https://telegra.ph/file/5cddc2fe022bc72c925f1.jpg",
+  "repository":"https://github.com/Dark-feenix/Feenix-Md",
   "succes_url":"/",
   "stack":"container",
   "env":{
@@ -42,7 +42,7 @@
      "BOT_MENU_LINKS" : {
     
       "description":"add one or many link for your bot menu  ; eg : url1,url2,url3.....",
-      "value":"https://telegra.ph/file/dfccbf12397757c321ac4.jpg",
+      "value":"https://telegra.ph/file/5cddc2fe022bc72c925f1.jpg",
       "required":false
        
      },
